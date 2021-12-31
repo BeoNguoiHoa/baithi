@@ -14,7 +14,7 @@
 
     <servlet>
         <servlet-name>ListPhoneController</servlet-name>
-        <servlet-class>com.example.baithi.controller.ListGameController</servlet-class>
+        <servlet-class>com.example.baithi.controller.ListPhoneController</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ListPhoneController</servlet-name>
