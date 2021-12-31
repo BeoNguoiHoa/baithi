@@ -47,7 +47,7 @@
 
             <div class="w3-margin">
                 <label>Name</label>
-                <input class="w3-input" type="text" name="name">
+                <input class="w3-input" type="text" name="name" required>
             </div>
             <div class="w3-margin">
                 <label>Brand</label>
@@ -66,7 +66,7 @@
             </div>
             <div class="w3-margin">
                 <label>Description</label>
-                <input class="w3-input" type="text" name="description">
+                <input class="w3-input" type="text" name="description" required>
 
             </div>
             <div>
